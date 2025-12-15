@@ -5,12 +5,12 @@
   "packageManager": "pnpm@9.15.9",
   "author": "jingtaolai <1278207976@qq.com>",
   "license": "MIT",
-  "homepage": "https://github.com/ttLeslie/useAgent-markdown",
+  "homepage": "https://github.com/ttLeslie/vue-markdown",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ttLeslie/useAgent-markdown"
+    "url": "https://github.com/ttLeslie/vue-markdown"
   },
-  "bugs": "https://github.com/ttLeslie/useAgent-markdown/issues",
+  "bugs": "https://github.com/ttLeslie/vue-markdown/issues",
   "keywords": [
     "vue3",
     "component",

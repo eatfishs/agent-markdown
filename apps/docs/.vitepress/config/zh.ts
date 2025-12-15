@@ -16,7 +16,7 @@ export const zh = defineConfig({
     //   items: [
     //     {
     //       text: '更新日志',
-    //       link: 'https://github.com/ttLeslie/useAgent-markdown/blob/master/CHANGELOG.md',
+    //       link: 'https://github.com/ttLeslie/vue-markdown/blob/master/CHANGELOG.md',
     //     },
     //     {
     //       text: '参与贡献',
@@ -34,6 +34,6 @@ export const zh = defineConfig({
         ],
       },
     ],
-    socialLinks: [{ icon: 'github', link: 'https://github.com/ttLeslie/useAgent-markdown' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/ttLeslie/vue-markdown' }],
   },
 });

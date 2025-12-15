@@ -16,7 +16,7 @@ export const en = defineConfig({
     //     items: [
     //       {
     //         text: 'Changelog',
-    //         link: 'https://github.com/ttLeslie/useAgent-markdown/blob/master/CHANGELOG.md',
+    //         link: 'https://github.com/ttLeslie/vue-markdown/blob/master/CHANGELOG.md',
     //       },
     //       // {
     //       //   text: 'Contribute',
@@ -34,6 +34,6 @@ export const en = defineConfig({
         ],
       },
     ],
-    socialLinks: [{ icon: 'github', link: 'https://github.com/ttLeslie/useAgent-markdown' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/ttLeslie/vue-markdown' }],
   },
 });

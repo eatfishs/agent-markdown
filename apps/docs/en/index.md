@@ -13,7 +13,7 @@ hero:
       link: /en/guide/
     - theme: alt
       text: View on GitHub
-      link: https://github.com/ttLeslie/useAgent-markdown/tree/main/apps/docs
+      link: https://github.com/ttLeslie/vue-markdown/tree/main/apps/docs
 
 features:
   - icon: ⚡️
